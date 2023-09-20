@@ -1,4 +1,4 @@
-?????,outlook,temperature,humidity,windy,play
+no,outlook,temperature,humidity,windy,play
 1,sunny,hot,high,FALSE,no
 2,sunny,hot,high,TRUE,no
 3,overcast,hot,high,FALSE,yes
